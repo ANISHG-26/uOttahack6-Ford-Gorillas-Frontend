@@ -1,3 +1,14 @@
+.div {
+  display: flex;
+  justify-content: center; /* Horizontal centering */
+  align-items: center; /* Vertical centering */
+  height: 100vh; 
+}
+
+.img{
+  width:100%;
+}
+
 .App {
   text-align: center;
 }
